@@ -14,4 +14,6 @@ To Run Project :
 Thank You...
 
 ## Interface
-![](https://github.com/ManoBalaR/Java-Programming-Project/blob/master/Screenshot%204.png?raw=true)
+
+<img src="https://github.com/ManoBalaR/Java-Programming-Project/blob/master/Screenshot%204.png?raw=true" alt="alt text" width="450" height="500">
+
