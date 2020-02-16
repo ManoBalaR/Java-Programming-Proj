@@ -15,5 +15,5 @@ Thank You...
 
 ## Interface
 
-<img src="https://github.com/ManoBalaR/Java-Programming-Project/blob/master/Screenshot%204.png?raw=true" alt="alt text" width="450" height="500">
+<img src="https://github.com/ManoBalaR/Java-Programming-Project/blob/master/Screenshot%204.png?raw=true" alt="alt text" width="700" height="400">
 
